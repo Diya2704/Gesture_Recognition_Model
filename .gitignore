@@ -1,14 +1,16 @@
-# Virtual Environment
+# Virtual Environments
 venv/
 .venv/
 
 # PyCharm
 .idea/
 
-# Python Cache
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# OS Files
+# OS files
 .DS_Store
 Thumbs.db
